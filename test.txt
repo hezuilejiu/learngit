@@ -3,4 +3,6 @@
 这是master产生的
 这是dev产生的
 
-dev merge 后版本号的 
+dev merge 后版本号的
+
+这是一个add的修改，不会被merge
